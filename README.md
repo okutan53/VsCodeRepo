@@ -1,4 +1,4 @@
-BANK: Basit Banka Hesap Yönetim Sistemi
+bank: Basit Banka Hesap Yönetim Sistemi
 Bu proje, Python ile yazılmış bir banka hesap yönetim sistemidir. Kullanıcılar hesap oluşturabilir, giriş yapabilir, para yatırabilir, para çekebilir ve işlem geçmişlerini görüntüleyebilir.
 :pushpin: Özellikler
 :white_check_mark: Hesap oluşturma
